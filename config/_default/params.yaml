@@ -21,6 +21,7 @@ marketing:
     description: 'The personal webpage for Mohammad A. Noureddine'
   analytics:
     google_analytics: 'G-P8MSDKEP95'
+    google_tag_manager: 'G-P8MSDKEP95'
 
 # Site header
 
