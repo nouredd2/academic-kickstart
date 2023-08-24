@@ -1,31 +1,39 @@
 ---
 # Display name
-name: Mohammad A. Noureddine
+title: Mohammad A. Noureddine
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Mohammad
+last_name: Noureddine
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: P.h.D candidate at the Computer Science Department
+role: Assistant Professor of Computer Science and Software Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: "https://cs.illinois.edu"
+- name: Rose-Hulman Institute of Technology
+  url: "https://rose-hulman.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a P.h.D. candidate at the University of Illinois at Urbana-Champaign. My research interests include secure system design, computer networking, game-theory, and software verification.
+bio:  'I am an assistant professor of computer science and software engineering
+at the Rose-Hulman Institute of Technology. My teaching and research interests
+include network security, operating systems, and computer architecture.'
 
+# Interests to show in About widget
 interests:
-- Computer Networking
-- System Security
-- Game Theory
-- Software Verification and Program Analysis
+  - System Security
+  - Operating Systems
+  - Computer Networking
+  - Programmable Networking
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
@@ -45,16 +53,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nouredd2@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:noureddi@rose-hulman.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=iLJ3TyQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/nouredd2
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mohammad-noureddine/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,30 +73,29 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: 'noureddi@rose-hulman.edu'
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-__I will be joining the [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu) as an
-assistant professor starting Fall 2020.__
+<!-- Biography goes here, make sure to keep this up to date with the updates -->
 
-I am a P.h.D. candidate at the Computer Science Department at the University of Illinois at
-Urbana-Champaign, advised by Professor [William H. Sanders](http://whs.crhc.illinois.edu).
-I mainly work on various aspects of secure and resilient networking design, combining practical
-design principles with game- and control-theoretic analysis. 
-My ultimate research objective is to integrate theoretical analysis along with practical design
-patterns to build secure and resilient networks and systems. 
+I am an assistant professor of [Computer Science and Software Engineering
+(CSSE)](https://rose-hulman.edu/academics/academic-departments/computer-science-software-engineering/index.html)
+at the [Rose-Hulman Institte of Technology](https://rose-hulman.edu/).
+I currently run the NeTwork Security and Operating Systems (NeTSoS) research group
+at the department. My research focuses on various aspects of systems security,
+with focus on networking and operating systems.
 
-I have a passion for learning, teaching, and the overall exchange of knowledge. I have taught [ECE
-541: Computer System Analysis](https://courses.engr.illinois.edu/ece541/fa2018/) and have been a
-Teaching Assistant for the Operating Systems course at UIUC. I am a big fan of teaching Linux kernel
-programming and learning new things about the kernel. 
+I completed my PhD at the [Computer Science
+department](https://cs.illinois.edu/) at the [University of Illinois at
+Urbana-Champaign](https://illinois.edu/), advised by Professor [William H.
+Sanders](https://engineering.cmu.edu/directory/bios/sanders-william.html).  I
+mainly worked on various aspects of secure and resilient networking design,
+combining practical design principles with game- and control-theoretic analysis.
 
-Outside of the computer world, I am an amateur student of philosophy. My favorite philosophers are
-[S&oslash;ren Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/) and [Slavoj
+Outside of the computer world, I am an amateur student of philosophy. My
+favorite philosophers are [S&oslash;ren
+Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/) and [Slavoj
 &Zcaron;i&zcaron;ek](https://www.iep.utm.edu/zizek/).
