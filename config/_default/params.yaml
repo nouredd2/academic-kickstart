@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   theme_day: coffee
-  theme_night: dark 
+  theme_night: dark
   day_night: true
   font: Cyberpunk
   font_size: m
@@ -20,7 +20,7 @@ marketing:
     org_name: ''
     description: 'The personal webpage for Mohammad A. Noureddine'
   analytics:
-    google_analytics: 'UA-154900366-1'
+    google_analytics: 'G-P8MSDKEP95'
 
 # Site header
 
@@ -96,7 +96,7 @@ features:
 
 # Security
 security:
-  allow_frame: false 
+  allow_frame: false
 
 # Extensions
 
@@ -116,7 +116,7 @@ extensions:
 # address:
 #   street: Moench F214
 #   # city: Terre Haute
-#   # region: IN 
+#   # region: IN
 #   # postcode: '47803'
 #   # country: United States
 #   # country_code: US
